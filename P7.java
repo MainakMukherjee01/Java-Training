@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.Arrays;
 
-public class P8 {
+public class P7 {
 
     public static void errorHandlerOdd(int num){
         try{
