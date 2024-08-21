@@ -6,6 +6,6 @@ public class P3 {
 
         Character c = 'C';
         char cc = c;
-        System.out.println("Unboxing: " +cc);
+        System.out.println("Unboxing: " + cc);
     }
 }
